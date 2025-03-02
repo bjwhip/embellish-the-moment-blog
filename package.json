@@ -32,6 +32,9 @@
     "sass": "^1.85.1",
     "uuid": "^11.1.0"
   },
+  "engines": {
+    "node": ">=20.0.0"
+  },
   "devDependencies": {
     "prettier": "^2.8.8"
   },
